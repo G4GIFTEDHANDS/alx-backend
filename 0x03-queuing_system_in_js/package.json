@@ -1,0 +1,23 @@
+{
+  "name": "queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "A project for leaning the basic of a queueing system in Node.js",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "mocha --require @nwachukwuOC/register --exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G4GIFTEDHANS/alx-backend.git"
+  },
+  "author": "Nwachukwu Onyinyechi" <nwachukwuonyinyechi79@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G4GIFTEDHANS/alx-backend/issues"
+  },
+  "homepage": "https://github.com/G4GIFTEDHANS/alx-backend#readme",
+  "dependencies": {
+    "redis": "^4.6.10"
+  }
+}
+
